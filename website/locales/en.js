@@ -1,0 +1,22 @@
+export default {
+  home: "Home",
+  explore: "Explore",
+  account: "Account",
+  search: "Search",
+  trending: "Trending",
+  newGames: "New Games",
+  freeGames: "Free Games",
+  paidGames: "Paid Games",
+  language: "Language",
+  pages: "Pages",
+  contact: "Contact",
+  backToTop: "Back to Top",
+  Instructions: "Instructions",
+  ReadOutLoud: "Read out Loud!",
+
+  MedusaRules: "Everyone sits around the table of shot glasses. Someone counts down from 3 to 1. Then everyone looks up at stares into another players eyes. If someone is staring back into another player's eyes both players shout ”MEDUSA!” and both players drink a shot.",
+  TheFlipCupDrinkingGameRules: "Again a game that involves splitting into two teams, flip cup is fairly ferocious. Have two plastic cups ready at the same end of the table and each team forming an orderly line.  The first two members of each team kick it off by placing their plastic cup face down over the edge of the table and attempting to flip it so it lands in an upright position. After achieving this, the cup then goes down the line to the next person. The team to finish first wins, the losing team then has to down their drinks. This is one of the most fun team drinking games and will have you laughing all night long.",
+  BackToBackRules: "Two people in your group stand back to back, drinks in hand. The rest of the group ask them a 'Who's the most likely to....' question, and which ever member thinks they're the most likely to, drinks. If one of them drinks, you ask the next question. If they both drink, they both have to drink again. If neither of them drink, they also both have to drink again.",
+  ParanoiaRules: "Paranoia might not make you many friends, but it will make everyone nice and merry, quicker than you'd think – and you'll be surprised how nosy you really are too. Players take it in turn to whisper a question to the person on their right. The person answering the question must say their answer out loud, bearing in mind the rest of the participants haven't heard the question. E.g. the question might be 'How many people in this room have you kissed?' and the answer said aloud could be: 'Two'. If one of the players can't take the suspense and wants to know what the question was, they have to drink to earn the knowledge. Even the most laid back of people generally crack at least once! A more savage twist on Paranoia is 'Person Paranoia', where the answer to the question has to be a person in the room, and the person answering the question has to point at their answer. Want to know what the question was? Drink.",
+  sameNameError: "Cannot have the same name as another player!",
+}

@@ -1,0 +1,22 @@
+export default {
+  home: "Início",
+  explore: "Explorar",
+  account: "Minha Conta",
+  search: "Buscar",
+  trending: "Em alta",
+  newGames: "Jogos Novos",
+  freeGames: "Jogos Gratuitos",
+  paidGames: "Jogos Pagos",
+  language: "Idioma",
+  pages: "Páginas",
+  contact: "Contato",
+  backToTop: "Voltar para o Topo",
+  Instructions: "Instruções",
+  ReadOutLoud: "Leia em Voz Alta!",
+
+  MedusaRules: "Todos se sentam ao redor da mesa de copos. Alguém conta regressivamente de 3 a 1. Então todos olham fixamente nos olhos de outro jogador. Se alguém está olhando para os olhos de outro jogador, ambos os jogadores gritam MEDUSA! e ambos os jogadores bebem uma dose.",
+  TheFlipCupDrinkingGameRules: "Novamente um jogo que envolve a divisão em duas equipes, flip cup é bastante feroz. Prepare dois copos plásticos na mesma ponta da mesa e cada equipe formando uma fila ordenada. Os primeiros dois membros de cada equipe dão o pontapé inicial colocando seu copo de plástico voltado para baixo sobre a borda da mesa e tentando virá-lo para que caia na posição vertical. Depois de conseguir isso, o copo desce pela fila até a próxima pessoa. O time que terminar primeiro vence, o time perdedor então tem que engolir suas bebidas. Este é um dos jogos mais divertidos de beber em equipe e vai fazer você rir a noite toda.",
+  BackToBackRules: "Duas pessoas em seu grupo estão de costas um para o outro, com bebidas na mão. O resto do grupo faz a eles uma pergunta 'Quem é o mais provável ...', e o membro que acha ser o mais provável, bebe. Se um deles beber, você faz a próxima pergunta. Se os dois beberem, os dois terão que beber novamente. Se nenhum deles beber, os dois devem beber novamente.",
+  ParanoiaRules: "A paranóia pode não fazer de você muitos amigos, mas deixará todos legais e alegres, mais rápido do que você pensa - e você ficará surpreso com o quão intrometido você também é. Os jogadores, por sua vez, sussurram uma pergunta para a pessoa à sua direita. A pessoa deve responder em voz alta, lembrando que os demais participantes não ouviram a pergunta. Por exemplo. a pergunta pode ser 'Quantas pessoas nesta sala você beijou?' e a resposta dita em voz alta poderia ser: 'Dois'. Se um dos jogadores não aguenta o suspense e quer saber qual era a pergunta, ele tem que beber para ganhar o conhecimento. Mesmo as pessoas mais despreocupadas geralmente cedem pelo menos uma vez! Uma reviravolta mais selvagem na paranoia é 'Person Paranoia', em que a resposta para a pergunta, deve ser uma pessoa na sala, e a pessoa que está respondendo à pergunta deve apontar para sua resposta. Quer saber qual era a pergunta? Bebida.",
+  sameNameError: "Você não pode ter o mesmo nome que outro jogador!",
+}

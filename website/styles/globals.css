@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    @apply bg-[#131412] text-[#cccccc];
+  }
+  @font-face {
+    font-family: 'Proxima Nova Bold';
+    src: local('Proxima Nova'), url(/fonts/Proxima-Nova-Bold.woff2) format('woff2');
+  }
+  @font-face {
+    font-family: 'Proxima Nova Regular';
+    src: local('Proxima Nova'), url(/fonts/Proxima-Nova-Regular.woff2) format('woff2');
+  }
+  @font-face {
+    font-family: 'Proxima Nova Semibold';
+    src: local('Proxima Nova'), url(/fonts/Proxima-Nova-Semibold.woff2) format('woff2');
+  }
+}
+
+/* width 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #ffe600; 
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: rgb(54, 54, 54); 
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(0, 0, 0); 
+}*/
